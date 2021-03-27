@@ -1,0 +1,75 @@
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+body{background-color: white;
+  
+}
+
+ h1 {
+    font-family: 'Parisienne', cursive;
+    
+    text-align: center;
+    
+    
+  
+}
+h2{
+    font-family:'Lobster Two', cursive;
+    size: 0.5rem;
+}
+p{
+    
+    color: rgb(15, 2, 2);
+    font-size: 50%;/* taille*/
+    font-weight: 100;/* gras*/
+    font-family: 'Oi', cursive;
+ 
+}
+a{color: rgb(66, 64, 66);
+font-size: 2rem;
+text-decoration: none;
+padding: 1rem;
+
+}
+a:hover{
+    color: rgb(236, 122, 15);
+    background-color: rgb(240, 223, 231);
+}
+div {
+    
+    border: rgb(196, 231, 245) ;
+    background-color: rgb(252, 249, 246);
+}
+.lienext{color: rgb(3, 3, 3);
+    padding: 0.3rem;
+    font-size: 1rem;
+    
+
+}
+
+
+li{
+    font-family: 'Lobster Two', cursive;
+}
+.im1{
+    position: relative;
+    left: 80px;
+   size: initial;
+}
+table li {
+    font-family: inherit;
+}
+#enplus{
+   position: relative;
+   bottom: 4rem;
+
+}
+#pourquoi{
+    position: relative;
+    left: 1rem;
+    
+}
